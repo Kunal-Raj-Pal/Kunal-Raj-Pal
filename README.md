@@ -5,11 +5,15 @@
 
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [QR Generator App](https://qr-generator-6ic1.onrender.com)
+🔭 Currently building full-stack web applications with Django, React & Next.js.
 
-- 📫 How to reach me **Kunalrajpal03@gmail.com**
+🌱 Currently learning system design, DevOps, and scalable backend architecture.
 
-- ⚡ Fun fact **I think I am funny**
+👨‍💻 Explore my projects and experiments below.
+
+📫 Reach me at: Kunalrajpal03@gmail.com
+
+⚡ Building projects that are fast, interactive, and solve real-world problems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
